@@ -55,10 +55,10 @@ A modern ecommerce platform for premium artificial flowers, offering a seamless 
 
 ---
 
+## 🔒 Licensing & Usage
 
-## 📄 License
-
-This project is Closed source.
+> **flora is a private, closed-source project.**  
+> Redistribution, reuse, or copying of code and design elements is **strictly prohibited**.  
 
 ---
 
