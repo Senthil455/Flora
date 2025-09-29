@@ -1,4 +1,4 @@
-# 🌺 Flora
+# <img src='./frontend/src/assets/pics/navLogo.png' width="45"> Flora
 
 > *"Flowers that never fade."*
 
@@ -69,6 +69,6 @@ This project is Closed source.
 - Company: Senthil455
 
 ---
-
-<p align="center">Made by <a href="https://github.com/Senthil455">Senthil455</a></p>
-<p align="center">🌸 Flowers that never fade 🌸</p>
+> <img src='./frontend/src/assets/pics/flora-logo.svg' width="120">
+<p >Made by <a href="https://github.com/Senthil455">Senthil455</a></p>
+<p >🌸 Flowers that never fade 🌸</p>
