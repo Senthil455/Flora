@@ -4,7 +4,7 @@
 
 A modern ecommerce platform for premium artificial flowers, offering a seamless shopping experience with cash on delivery payment options.
 
-![Version](https://img.shields.io/badge/version-1.0.0-pink)
+![Version](https://img.shields.io/badge/version-1.2.0-pink)
 ![License](https://img.shields.io/badge/Private-red)
 
 ---
