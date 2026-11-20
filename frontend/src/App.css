@@ -1138,45 +1138,11 @@ nav {
   aspect-ratio: 1/1;
   object-fit: cover;
 }
-.floraLogo {
-  width: 100%;
-}
 .footer-description {
   color: var(--gray);
   line-height: 1.6;
   margin-bottom: 25px;
   font-size: 15px;
-}
-
-/* Social Links */
-.social-links {
-  display: flex;
-  gap: 15px;
-}
-
-.social-icon {
-  width: 44px;
-  height: 44px;
-  border-radius: 50%;
-  background: var(--background);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: var(--black);
-  transition: all 0.3s ease;
-  text-decoration: none;
-}
-
-.social-icon svg {
-  width: 20px;
-  height: 20px;
-}
-
-.social-icon:hover {
-  background: var(--primary);
-  color: var(--white);
-  transform: translateY(-3px);
-  box-shadow: 0 5px 15px rgba(255, 56, 93, 0.3);
 }
 
 /* Newsletter Section */

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 96" role="img" aria-label="Flora">
+  <defs>
+    <linearGradient id="floraWordmarkFlower" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff385d" />
+      <stop offset="1" stop-color="#f86d87" />
+    </linearGradient>
+  </defs>
+  <g transform="translate(6 6) scale(0.42)">
+    <circle cx="100" cy="100" r="99" fill="#fff7f7" />
+    <g fill="url(#floraWordmarkFlower)" transform="translate(100 100)">
+      <ellipse rx="24" ry="44" cy="-34" />
+      <ellipse rx="24" ry="44" cy="-34" transform="rotate(72)" />
+      <ellipse rx="24" ry="44" cy="-34" transform="rotate(144)" />
+      <ellipse rx="24" ry="44" cy="-34" transform="rotate(216)" />
+      <ellipse rx="24" ry="44" cy="-34" transform="rotate(288)" />
+    </g>
+    <circle cx="100" cy="100" r="20" fill="#fff7f7" stroke="#ff385d" stroke-width="5" />
+    <circle cx="100" cy="100" r="7" fill="#ff385d" />
+  </g>
+  <text x="106" y="66" font-family="Georgia, 'Times New Roman', serif" font-size="58" font-style="italic" fill="#ff385d">Flora</text>
+</svg>

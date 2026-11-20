@@ -1,16 +1,33 @@
-# React + Vite
+# Flora — Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React + Vite client for the Flora ecommerce platform.
 
-Currently, two official plugins are available:
+## Scripts
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```bash
+npm install
+npm run dev      # start the development server
+npm run build    # create a production build
+npm run preview  # preview the production build
+npm run lint     # run ESLint
+```
 
-## React Compiler
+## Configuration
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The API base URL is read from `VITE_API_URL` and defaults to `http://localhost:3000`:
 
-## Expanding the ESLint configuration
+```env
+VITE_API_URL=http://localhost:3000
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Structure
+
+```
+src/
+├── api/         # API helpers
+├── assets/      # brand assets
+├── components/  # shared UI components
+├── constants/   # configuration constants
+├── context/     # React contexts
+└── pages/       # route-level pages
+```

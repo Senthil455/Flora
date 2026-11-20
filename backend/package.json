@@ -1,7 +1,7 @@
 {
-  "name": "backend",
+  "name": "flora-backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "Flora ecommerce API",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Senthil455",
   "license": "ISC",
   "type": "module",
   "dependencies": {

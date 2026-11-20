@@ -1,4 +1,4 @@
-import logo from "../assets/pics/navLogo.png";
+import logo from "../assets/pics/flora-logo.svg";
 import { useAuth } from "../context/AuthContext";
 import { useCart } from "../context/CartContext";
 import { useOrder } from "../context/OrderContext";
